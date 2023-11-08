@@ -68,4 +68,4 @@ Testing the webserver.
 ![Alt text](Simplewebserver.png)
 ![Alt text](web.png)
 ## RESULT:
-The program for implementing simple webserver is executed successfully.
+The program for implementing simple webserver is executed successfully
